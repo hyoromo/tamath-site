@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on iOS/Android应用程序 &#34;TAMATH&#34;</title>
+    <link>https://hyoromo.github.io/tamath/zh/</link>
+    <description>Recent content in index on iOS/Android应用程序 &#34;TAMATH&#34;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://hyoromo.github.io/tamath/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>捐赠</title>
+      <link>https://hyoromo.github.io/tamath/zh/tip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyoromo.github.io/tamath/zh/tip/</guid>
+      <description>感谢您考虑捐款！
+如果您喜欢该应用程序并认为您愿意支持该应用程序的开发，如果您能在下面提示我们，我们将很高兴。
+ 亚马逊礼券电子邮件类型  电子邮件类型的目标电子邮件地址是 hyoromo@gmail.com 。
+从最低金额接受小费。
+我们收到的钱将用于基金发展。</description>
+    </item>
+    
+  </channel>
+</rss>

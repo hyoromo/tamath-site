@@ -1,0 +1,32 @@
+---
+title: index
+---
+
+![top banner](img_app_logo.png)
+
+动动你的脑筋,开心地玩吧!
+
+<b>一笔计算脑力训练游戏</b>
+
+这个游戏通过一笔书写来进行加减乘算数训练,像一个益智游戏。<br>
+操作很简单!只要把屏幕上显示的数字用一条线连接起来。<br>
+规则简单易懂,任何人都可以轻松上手,但随着等级提升,难度也会增加。<br>
+充分运用你的大脑,争取获取高分!<br>
+
+<h3>3种难度级别</h3>
+<ul>
+<li>【初级】<br>只有简单的加减运算。适合初学者。</li>
+<li>【中级】<br>增加乘法题。</li>
+<li>【高级】<br>加上加减乘,运算数字位数也逐渐增加。</li>
+</ul>
+
+<h3>排行榜</h3>
+与全球高手进行排名对决!<br>
+每天刷新记录,力争成为顶级玩家!
+<br><br><br>
+通过这款脑力训练,提高认知能力如何?
+
+-------
+
+[![App store link](img_appstore_banner.zh.png#imgleft)](https://itunes.apple.com/cn/app/id6468984358?mt=8)[![Google Play link](img_google-play-badge.zh.png#imgleft)](https://play.google.com/store/apps/details?id=jp.hyoromo.tamath)
+<div class="clear clear_box"></div>
