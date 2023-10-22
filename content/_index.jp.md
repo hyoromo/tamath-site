@@ -16,7 +16,7 @@ title: index
 <h3>3つの難易度</h3>
 <ul>
 <li>【EASY】<br>足し算と引き算の簡単な計算だけ。初心者にオススメ</li>
-<li>【NORMAL】<br>掛け算の問題が追加される</li>
+<li>【NORMAL】<br>掛け算だけの計算</li>
 <li>【HARD】<br>加算/減算/乗算に加え、式の桁数も増加します</li>
 </ul>
 

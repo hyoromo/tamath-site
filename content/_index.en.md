@@ -16,7 +16,7 @@ Work your brain hard and aim for a high score!<br>
 <h3>3 Difficulty Levels</h3>
 <ul>
 <li>【EASY】<br>Just simple addition and subtraction. Recommended for beginners.</li>
-<li>【NORMAL】<br>Multiplication questions are added.</li>
+<li>【NORMAL】<br>Multiplication Calculation Only.</li>
 <li>【HARD】<br>In addition to addition, subtraction and multiplication, the number of digits also increases.</li>
 </ul>
 
