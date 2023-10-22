@@ -15,9 +15,9 @@ Work your brain hard and aim for a high score!<br>
 
 <h3>3 Difficulty Levels</h3>
 <ul>
-<li>【EASY】<br>Just simple addition and subtraction. Recommended for beginners.</li>
-<li>【NORMAL】<br>Multiplication Calculation Only.</li>
-<li>【HARD】<br>In addition to addition, subtraction and multiplication, the number of digits also increases.</li>
+<li>【EASY】<br>Simple addition and subtraction calculation questions.</li>
+<li>【NORMAL】<br>Multiplication calculation questions only.</li>
+<li>【HARD】<br>Addition, subtraction, and multiplication calculation questions with increased number of digits.</li>
 </ul>
 
 <h3>Ranking</h3>
