@@ -2,112 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hyoromo.github.io/tamath/zh-tw/categories/</loc>
+    <loc>https://hyoromo.github.io/tamath-site/zh-tw/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hyoromo.github.io/tamath/categories/"
+                href="https://hyoromo.github.io/tamath-site/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://hyoromo.github.io/tamath/jp/categories/"
+                href="https://hyoromo.github.io/tamath-site/jp/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hyoromo.github.io/tamath/ko/categories/"
+                href="https://hyoromo.github.io/tamath-site/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hyoromo.github.io/tamath/zh/categories/"
+                href="https://hyoromo.github.io/tamath-site/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hyoromo.github.io/tamath/zh-tw/categories/"
+                href="https://hyoromo.github.io/tamath-site/zh-tw/categories/"
                 />
   </url><url>
-    <loc>https://hyoromo.github.io/tamath/zh-tw/</loc>
+    <loc>https://hyoromo.github.io/tamath-site/zh-tw/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hyoromo.github.io/tamath/"
+                href="https://hyoromo.github.io/tamath-site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://hyoromo.github.io/tamath/jp/"
+                href="https://hyoromo.github.io/tamath-site/jp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hyoromo.github.io/tamath/ko/"
+                href="https://hyoromo.github.io/tamath-site/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hyoromo.github.io/tamath/zh/"
+                href="https://hyoromo.github.io/tamath-site/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hyoromo.github.io/tamath/zh-tw/"
+                href="https://hyoromo.github.io/tamath-site/zh-tw/"
                 />
   </url><url>
-    <loc>https://hyoromo.github.io/tamath/zh-tw/tags/</loc>
+    <loc>https://hyoromo.github.io/tamath-site/zh-tw/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hyoromo.github.io/tamath/tags/"
+                href="https://hyoromo.github.io/tamath-site/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://hyoromo.github.io/tamath/jp/tags/"
+                href="https://hyoromo.github.io/tamath-site/jp/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hyoromo.github.io/tamath/ko/tags/"
+                href="https://hyoromo.github.io/tamath-site/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hyoromo.github.io/tamath/zh/tags/"
+                href="https://hyoromo.github.io/tamath-site/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hyoromo.github.io/tamath/zh-tw/tags/"
+                href="https://hyoromo.github.io/tamath-site/zh-tw/tags/"
                 />
   </url><url>
-    <loc>https://hyoromo.github.io/tamath/zh-tw/tip/</loc>
+    <loc>https://hyoromo.github.io/tamath-site/zh-tw/tip/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hyoromo.github.io/tamath/tip/"
+                href="https://hyoromo.github.io/tamath-site/tip/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://hyoromo.github.io/tamath/jp/tip/"
+                href="https://hyoromo.github.io/tamath-site/jp/tip/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://hyoromo.github.io/tamath/ko/tip/"
+                href="https://hyoromo.github.io/tamath-site/ko/tip/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hyoromo.github.io/tamath/zh/tip/"
+                href="https://hyoromo.github.io/tamath-site/zh/tip/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hyoromo.github.io/tamath/zh-tw/tip/"
+                href="https://hyoromo.github.io/tamath-site/zh-tw/tip/"
                 />
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseURL = "https://hyoromo.github.io/tamath/"
+baseURL = "https://hyoromo.github.io/tamath-site/"
 publishDir = "docs"
 languageCode = "en-us"
 theme = "hugo-theme-learn"
@@ -50,7 +50,7 @@ languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-coffee'></i> Tip"
-url = "https://hyoromo.github.io/tamath/tip"
+url = "https://hyoromo.github.io/tamath-site/tip"
 weight = 12
 
 
@@ -61,7 +61,7 @@ languageName = "日本語"
 
 [[Languages.jp.menu.shortcuts]]
 name = "<i class='fas fa-coffee'></i> 投げ銭"
-url = "https://hyoromo.github.io/tamath/jp/tip"
+url = "https://hyoromo.github.io/tamath-site/jp/tip"
 weight = 12
 
 
@@ -72,7 +72,7 @@ languageName = "简体中文"
 
 [[Languages.zh.menu.shortcuts]]
 name = "<i class='fas fa-coffee'></i> 捐赠"
-url = "https://hyoromo.github.io/tamath/zh/tip"
+url = "https://hyoromo.github.io/tamath-site/zh/tip"
 weight = 12
 
 
@@ -83,7 +83,7 @@ languageName = "繁體中文"
 
 [[Languages.zh-TW.menu.shortcuts]]
 name = "<i class='fas fa-coffee'></i> 捐贈"
-url = "https://hyoromo.github.io/tamath/zh-tw/tip"
+url = "https://hyoromo.github.io/tamath-site/zh-tw/tip"
 weight = 12
 
 
@@ -94,5 +94,5 @@ languageName = "한국어"
 
 [[Languages.ko.menu.shortcuts]]
 name = "<i class='fas fa-coffee'></i> 기부"
-url = "https://hyoromo.github.io/tamath/ko/tip"
+url = "https://hyoromo.github.io/tamath-site/ko/tip"
 weight = 12

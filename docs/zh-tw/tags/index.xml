@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on iOS/Android應用程序 &#34;TAMATH&#34;</title>
-    <link>https://hyoromo.github.io/tamath/zh-tw/tags/</link>
+    <link>https://hyoromo.github.io/tamath-site/zh-tw/tags/</link>
     <description>Recent content in Tags on iOS/Android應用程序 &#34;TAMATH&#34;</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hyoromo.github.io/tamath/zh-tw/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://hyoromo.github.io/tamath-site/zh-tw/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

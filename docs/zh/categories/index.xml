@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on iOS/Android应用程序 &#34;TAMATH&#34;</title>
-    <link>https://hyoromo.github.io/tamath/zh/categories/</link>
+    <link>https://hyoromo.github.io/tamath-site/zh/categories/</link>
     <description>Recent content in Categories on iOS/Android应用程序 &#34;TAMATH&#34;</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hyoromo.github.io/tamath/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://hyoromo.github.io/tamath-site/zh/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
