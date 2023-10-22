@@ -11,14 +11,12 @@ Give your brain a workout and have fun!
 This game is a puzzle game where you calculate addition, subtraction and multiplication in one continuous stroke.<br>
 The controls are simple! Just connect the numbers displayed on the screen in one line.<br>
 The rules are simple so anyone can play easily, but as you level up the difficulty increases.<br>
-Work your brain hard and aim for a high score!<br>
+Work your brain hard and solve the problems quickly!<br>
 
 <h3>3 Difficulty Levels</h3>
-<ul>
-<li>【EASY】<br>Simple addition and subtraction calculation questions.</li>
-<li>【NORMAL】<br>Multiplication calculation questions only.</li>
-<li>【HARD】<br>Addition, subtraction, and multiplication calculation questions with increased number of digits.</li>
-</ul>
+【EASY】Simple addition and subtraction calculation questions.<br>
+【NORMAL】Multiplication calculation questions only.<br>
+【HARD】Addition, subtraction, and multiplication calculation questions with increased number of digits.<br>
 
 <h3>Ranking</h3>
 There is also a ranking system to compete with top players around the world.<br>
