@@ -6,7 +6,7 @@ title: index
 
 Give your brain a workout and have fun!
 
-<b>One Stroke Calculation Brain Training Game</b>
+<b>One Stroke Math Formula Puzzle Game</b>
 
 This game is a puzzle game where you calculate addition, subtraction and multiplication in one continuous stroke.<br>
 The controls are simple! Just connect the numbers displayed on the screen in one line.<br>
