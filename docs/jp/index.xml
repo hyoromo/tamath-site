@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://hyoromo.github.io/tamath-site/jp/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>クレジット</title>
+      <link>https://hyoromo.github.io/tamath-site/jp/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyoromo.github.io/tamath-site/jp/credits/</guid>
+      <description>クレジット アプリ開発 &amp;amp; サイト制作 hyoromo
+サイト制作ツール Hugo
+hugo-theme-learn</description>
+    </item>
+    
+    <item>
       <title>投げ銭</title>
       <link>https://hyoromo.github.io/tamath-site/jp/tip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

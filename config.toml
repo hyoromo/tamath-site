@@ -17,7 +17,7 @@ home = [ "HTML", "RSS", "JSON"]
   # Author of the site, will be used in meta information
   author = "hyoromo"
   # Description of the site, will be used in meta information
-  description = "Sound game training app"
+  description = "TAMATH app"
   # Shows a checkmark for visited pages on the menu
   showVisitedLinks = false
   # Disable search function. It will hide search bar
@@ -49,6 +49,11 @@ weight = 1
 languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-sticky-note'></i> Credits"
+url = "https://hyoromo.github.io/tamath-site/credits"
+weight = 11
+
+[[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-coffee'></i> Tip"
 url = "https://hyoromo.github.io/tamath-site/tip"
 weight = 12
@@ -58,6 +63,11 @@ weight = 12
 title = "iOS/Androidアプリ「TAMATH」"
 weight = 2
 languageName = "日本語"
+
+[[Languages.jp.menu.shortcuts]]
+name = "<i class='fas fa-sticky-note'></i> クレジット"
+url = "https://hyoromo.github.io/tamath-site/jp/credits"
+weight = 11
 
 [[Languages.jp.menu.shortcuts]]
 name = "<i class='fas fa-coffee'></i> 投げ銭"
@@ -71,6 +81,11 @@ weight = 3
 languageName = "简体中文"
 
 [[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-sticky-note'></i> 片头"
+url = "https://hyoromo.github.io/tamath-site/zh/credits"
+weight = 11
+
+[[Languages.zh.menu.shortcuts]]
 name = "<i class='fas fa-coffee'></i> 捐赠"
 url = "https://hyoromo.github.io/tamath-site/zh/tip"
 weight = 12
@@ -80,6 +95,11 @@ weight = 12
 title = "iOS/Android應用程序 \"TAMATH\""
 weight = 4
 languageName = "繁體中文"
+
+[[Languages.zh-TW.menu.shortcuts]]
+name = "<i class='fas fa-sticky-note'></i> 片頭"
+url = "https://hyoromo.github.io/tamath-site/zh-tw/credits"
+weight = 11
 
 [[Languages.zh-TW.menu.shortcuts]]
 name = "<i class='fas fa-coffee'></i> 捐贈"

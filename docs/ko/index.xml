@@ -19,5 +19,16 @@
 우리가 받는 돈은 개발 자금으로 사용될 것입니다.</description>
     </item>
     
+    <item>
+      <title>크레딧 표시</title>
+      <link>https://hyoromo.github.io/tamath-site/ko/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyoromo.github.io/tamath-site/ko/credits/</guid>
+      <description>크레딧 표시 앱 개발 &amp;amp; 사이트 제작 hyoromo
+사이트 제작 도구 Hugo
+hugo-theme-learn</description>
+    </item>
+    
   </channel>
 </rss>

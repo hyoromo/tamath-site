@@ -29,6 +29,33 @@
                 href="https://hyoromo.github.io/tamath-site/categories/"
                 />
   </url><url>
+    <loc>https://hyoromo.github.io/tamath-site/credits/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://hyoromo.github.io/tamath-site/jp/credits/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://hyoromo.github.io/tamath-site/ko/credits/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hyoromo.github.io/tamath-site/zh/credits/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hyoromo.github.io/tamath-site/zh-tw/credits/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hyoromo.github.io/tamath-site/credits/"
+                />
+  </url><url>
     <loc>https://hyoromo.github.io/tamath-site/</loc>
     <xhtml:link
                 rel="alternate"

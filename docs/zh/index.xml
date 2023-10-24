@@ -19,5 +19,16 @@
 我们收到的钱将用于基金发展。</description>
     </item>
     
+    <item>
+      <title>片头</title>
+      <link>https://hyoromo.github.io/tamath-site/zh/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyoromo.github.io/tamath-site/zh/credits/</guid>
+      <description>片头 应用开发 &amp;amp; 网站开发 hyoromo
+网站开发工具 Hugo
+hugo-theme-learn</description>
+    </item>
+    
   </channel>
 </rss>
