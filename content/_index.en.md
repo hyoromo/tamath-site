@@ -4,6 +4,8 @@ title: index
 
 ![top banner](img_app_logo.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XZ0vRt1HjmA?si=Zwozj-zuQrLUnPMJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Give your brain a workout and have fun!
 
 <b>One Stroke Math Formula Puzzle Game</b>

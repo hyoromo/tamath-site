@@ -4,6 +4,8 @@ title: index
 
 ![top banner](img_app_logo.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g85M2k9MMWs?si=HlmUpJ0q23SsElKx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 動動你的腦筋,開心地玩吧!
 
 <b>一筆書寫數學公式益智遊戲</b>

@@ -4,6 +4,8 @@ title: index
 
 ![top banner](img_app_logo.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mclf_JnXQNY?si=Y-nPIqpWg2AQbi4e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 머리를 가득 돌리세요!
 
 <b>일휘식 수식 퍼즐 게임</b>

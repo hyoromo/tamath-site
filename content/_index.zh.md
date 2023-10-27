@@ -4,6 +4,8 @@ title: index
 
 ![top banner](img_app_logo.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xpAQDewj2Nw?si=K91nSiJLB1k6mani" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 动动你的脑筋,开心地玩吧!
 
 <b>一笔书写数学公式益智游戏</b>
