@@ -4,8 +4,6 @@ disableToc: true
 chapter: false
 ---
 
-![image](https://hyoromo.github.io/sound-game-training-universal/img_congratulation.png)
-
 投げ銭をご検討頂き、ありがとうございます！
 
 アプリを気に入ってくださった方で「少しだけ開発のサポートしてあげようかな」と思ってくださった方がいらっしゃいましたら、以下から投げ銭を頂けますと嬉しいです。

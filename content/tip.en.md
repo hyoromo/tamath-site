@@ -4,8 +4,6 @@ disableToc: true
 chapter: false
 ---
 
-![image](https://hyoromo.github.io/sound-game-training-universal/img_congratulation.png)
-
 Thank you for considering the tip.
 
 If you like the app and think that you would like to support the development of the app a little bit, we would be happy if you could tip us below.

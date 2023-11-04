@@ -4,8 +4,6 @@ disableToc: true
 chapter: false
 ---
 
-![image](https://hyoromo.github.io/sound-game-training-universal/img_congratulation.png)
-
 던지기 돈을 고려해 주셔서 감사합니다!
 
 앱이 마음에 드셨고 앱 개발에 조금이나마 도움이 되었으면 하는 생각이 든다면 아래에 제보해주시면 기쁩니다.
