@@ -58,6 +58,17 @@ name = "<i class='fas fa-coffee'></i> Tip"
 url = "https://hyoromo.github.io/tamath-site/tip"
 weight = 12
 
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> Other iOS apps"
+url = "https://apps.apple.com/us/developer/hiroki-kawakami/id586928741"
+weight = 98
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> Other Android apps"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
+
+
 
 [Languages.jp]
 title = "iOS/Androidアプリ「TAMATH」"
@@ -73,6 +84,16 @@ weight = 11
 name = "<i class='fas fa-coffee'></i> 投げ銭"
 url = "https://hyoromo.github.io/tamath-site/jp/tip"
 weight = 12
+
+[[Languages.jp.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 他のiOSアプリ"
+url = "https://apps.apple.com/jp/developer/hiroki-kawakami/id586928741"
+weight = 98
+
+[[Languages.jp.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 他のAndroidアプリ"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
 
 
 [Languages.zh]
@@ -90,6 +111,16 @@ name = "<i class='fas fa-coffee'></i> 捐赠"
 url = "https://hyoromo.github.io/tamath-site/zh/tip"
 weight = 12
 
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 其他iOS应用"
+url = "https://apps.apple.com/cn/developer/hiroki-kawakami/id586928741"
+weight = 98
+
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 其他Android应用"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
+
 
 [Languages.zh-TW]
 title = "iOS/Android應用程序 \"TAMATH\""
@@ -106,6 +137,16 @@ name = "<i class='fas fa-coffee'></i> 捐贈"
 url = "https://hyoromo.github.io/tamath-site/zh-tw/tip"
 weight = 12
 
+[[Languages.zh-TW.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 其他iOS應用"
+url = "https://apps.apple.com/tw/developer/hiroki-kawakami/id586928741"
+weight = 98
+
+[[Languages.zh-TW.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 其他Android應用"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
+
 
 [Languages.ko]
 title = "iOS/Android 앱 \"TAMATH\""
@@ -116,3 +157,13 @@ languageName = "한국어"
 name = "<i class='fas fa-coffee'></i> 기부"
 url = "https://hyoromo.github.io/tamath-site/ko/tip"
 weight = 12
+
+[[Languages.ko.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 다른 iOS 앱"
+url = "https://apps.apple.com/kr/developer/hiroki-kawakami/id586928741"
+weight = 98
+
+[[Languages.ko.menu.shortcuts]]
+name = "<i class='fas fa-mobile'></i> 다른 Android 앱"
+url = "https://play.google.com/store/apps/dev?id=7087451883225614829"
+weight = 99
